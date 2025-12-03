@@ -1,0 +1,102 @@
+------------------------------------------------------------
+PROJECT REPORT
+------------------------------------------------------------
+
+Course Code: CSEG1041
+Course Title: Programming in C
+Project Title: Employee Management System
+
+Student Names: 
+- Nausheen Parveen
+- Shourya Sharma
+
+Roll Numbers: 
+- 590026385
+- 590027524
+
+Semester: 1
+
+------------------------------------------------------------
+1. ABSTRACT
+------------------------------------------------------------
+This project implements a menu-driven Employee Management System using the C programming language. 
+The system allows users to add, view, search, update, and delete employee records stored permanently 
+in a file. It uses structures to represent employee data and demonstrates the application of file 
+handling for data persistence. The project also applies modular programming concepts to build a 
+clear, efficient, and maintainable management system.
+
+------------------------------------------------------------
+2. OBJECTIVE
+------------------------------------------------------------
+The objective of this project is to design and implement a simple, modular, and efficient Employee 
+Management System using the C programming language. The system should automate key operations such as 
+adding employee records, viewing details, searching for specific employees, updating information, and 
+deleting entries, with all data stored persistently using file handling.
+
+The aim is to replace manual employee record-keeping with a faster, more reliable, and organized 
+digital solution while reinforcing essential C programming concepts such as structures, functions, 
+arrays, file operations, and modular program organization.
+
+------------------------------------------------------------
+3. PROBLEM DEFINITION
+------------------------------------------------------------
+In many small offices, shops, and institutions, employee information is still handled manually, which 
+often leads to mistakes, difficulty in updating records, and loss of important data. There is a need 
+for a simple, reliable, and efficient digital system to store and manage employee details.
+
+The goal of this project is to build a console-based Employee Management System in C that automates 
+basic record-handling tasks and improves accuracy and accessibility.
+
+The system shall:
+• Store employee details such as ID, Name, Age, Position, Salary, etc.
+• Add new employee records
+• Display all stored records
+• Search for a specific employee by ID or name
+• Update employee information when needed
+• Delete employee records
+• Maintain all data permanently using file handling
+
+This project also reinforces key C programming concepts such as:
+• Structures for organizing data
+• Functions for modular design
+• Arrays for storing multiple records
+• Text-file operations for persistent data management
+
+------------------------------------------------------------
+4. SYSTEM DESIGN AND ALGORITHM
+------------------------------------------------------------
+(FLOWCHART, ALGORITHM)
+
+------------------------------------------------------------
+5. IMPLEMENTATION DETAILS
+------------------------------------------------------------
+
+------------------------------------------------------------
+6. TESTING AND RESULTS
+------------------------------------------------------------
+
+------------------------------------------------------------
+7. FUTURE SCOPE
+------------------------------------------------------------
+• Allow users to edit or remove specific employee fields (name, department, salary, etc.) directly 
+  from the interface with improved validation.
+• Maintain a separate log file to track changes such as promotions, salary updates, and new hires 
+  for better record-keeping.
+• Develop a graphical user interface (GUI) to replace the console-based layout, making the system 
+  more user-friendly and visually appealing.
+
+------------------------------------------------------------
+8. CONCLUSION
+------------------------------------------------------------
+The Employee Management System developed in C successfully provides a simple and effective way to 
+manage employee information through a console-based interface. The system allows users to add new 
+employees, view all records, search for specific employees, update existing details, and delete 
+records, ensuring smooth and organized data handling. 
+
+All employee information is stored permanently using file handling, making it reliable for repeated 
+use without data loss.
+
+This project demonstrates the practical application of core C programming concepts such as 
+structures, functions, arrays, modular programming, and file operations. Implementing CRUD 
+operations strengthened the understanding of persistent storage and record manipulation, while 
+designing a structured codebase improved debugging and problem-solving skills.
